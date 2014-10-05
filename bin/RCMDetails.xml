@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCM>
+
+<RCM1>
+<Money available="1000">
+</Money>
+<ItemType> 
+<Aluminium count=0 Rate="30">
+</Aluminium>
+<Glass count=0>
+</Glass>
+</ItemType>
+<ItemAdded TotalWeight=0>
+<Item1 Weight=3 TimeStampAdded=4 Type="Aluminium" TimeStampRemoved=0 Status="InsMachine"></Item1>
+</ItemAdded>
+
+</RCM1>
+
+</RCM>

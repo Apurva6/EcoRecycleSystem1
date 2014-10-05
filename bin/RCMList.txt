@@ -1,0 +1,4 @@
+RCM4|Active|Luca|411.68|232.16|4.0|0|631.42
+RCM6|Active|Market Place|731.24|951.98|6.0|0|389.1
+RCM5|Active|Santa Clara|1093.12|126.18|6.0|0|822.8
+RCM2|Active|Library|915.1|8.49|1.0|Thu Mar 13 15:34:58 PDT 2014|0.0
