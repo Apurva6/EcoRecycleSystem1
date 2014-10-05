@@ -1,0 +1,3 @@
+Glass|3
+Wood|10
+Steel|2
